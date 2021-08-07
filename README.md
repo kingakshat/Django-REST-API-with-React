@@ -1,2 +1,3 @@
 # Django-REST-API-with-React
-Ticket Booking API with React front end
+Full Stack development with Djnago REST API backend and React JS frontend webapp,
+Flight Ticket Booking webpage and API with Flight database 
